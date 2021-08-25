@@ -24,6 +24,11 @@
 
 <br />
 
+**Latest Projects 📚**
+
+- [Toy Store Shop](https://ductran2310.github.io/toyStore_Shop/index.html)
+<br/>
+
 **Framworks 💦**
 
 <p align="left">
