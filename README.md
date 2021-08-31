@@ -27,6 +27,7 @@
 **Latest Projects 📚**
 
 - [Toy Store Shop](https://ductran2310.github.io/toyStore_Shop/index.html)
+- [Finess GYM](https://ductran2310.github.io/GYM-Web/)
 <br/>
 
 **Framworks 💦**
