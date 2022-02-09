@@ -26,9 +26,9 @@
 
 **Latest Projects 📚**
 
-- [Toy Store Shop](https://ductran2310.github.io/toyStore_Shop/index.html)
+- [Netflix-](https://github.com/DucTran2310/Netflix-clone)
 - [Finess GYM](https://ductran2310.github.io/GYM-Web/)
-- [PractiseJS](https://github.com/DucTran2310/PractiseJs)
+- [Movie-](https://react-dmovie.surge.sh/)
 <br/>
 
 **Framworks 💦**
