@@ -26,9 +26,9 @@
 
 **Latest Projects 📚**
 
-- [Netflix-](https://github.com/DucTran2310/Netflix-clone)
+- [Netflix-clone](https://github.com/DucTran2310/Netflix-clone)
 - [Finess GYM](https://ductran2310.github.io/GYM-Web/)
-- [Movie-](https://react-dmovie.surge.sh/)
+- [Movie-web](https://react-dmovie.surge.sh/)
 <br/>
 
 **Framworks 💦**
