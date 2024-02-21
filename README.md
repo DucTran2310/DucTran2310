@@ -36,6 +36,10 @@
 - [Finess GYM](https://ductran2310.github.io/GYM-Web/)
 - [Movie-web](https://react-dmovie.surge.sh/)
 - [React-To-do-list](https://react-redux-todolist.surge.sh/)
+- [NestJS-Auth](https://github.com/DucTran2310/NestJS-Auth)
+- [E-commerce](https://github.com/DucTran2310/E-Commerce_MERN_2023)
+- [Air-bnb Clone](https://github.com/DucTran2310/Airbnb_Clone)
+- [App-Travel](https://github.com/DucTran2310/ReactNative_Travel)
 <br/>
 
 **Framworks 💦**
@@ -46,13 +50,6 @@
 </p>
 <br />
 
-**Tools 🌊**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="29" height="29"/>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="29"/> </a> 
-</p>
-<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ductran2310&show_icons=true&locale=en&layout=compact" alt="ductran2310" /></p>
 
