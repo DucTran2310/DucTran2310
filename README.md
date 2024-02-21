@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ductran2310&label=Profile%20views&color=0e75b6&style=flat" alt="ductran2310" /> </p>
 
-- 🌱 I’m currently learning **University Information Technology**
+- 🌱 I graduated from the University of **Information Technology**
+- 🌱 Currently I am a frontend programmer for **MWG** company
 
 - 👨‍💻 All of my projects are available at [https://github.com/DucTran2310](https://github.com/DucTran2310)
 
